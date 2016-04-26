@@ -1,0 +1,2 @@
+add_lunch_combo omni_kipper-eng
+add_lunch_combo omni_kipper-userdebug
